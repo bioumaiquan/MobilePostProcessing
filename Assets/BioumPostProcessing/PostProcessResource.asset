@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffeba87af0c3b334282e3c16b9f00a46, type: 3}
+  m_Name: PostProcessResource
+  m_EditorClassIdentifier: 
+  fxaa: {fileID: 4800000, guid: bf25207d099acf94c903189e1b99a8d7, type: 3}
+  bloom: {fileID: 4800000, guid: be475c9efa8fce54c963d0cf02763ecd, type: 3}
+  uber: {fileID: 4800000, guid: 8f6b24d7896636a4b80799cd7ac21e22, type: 3}
+  copyColor: {fileID: 4800000, guid: 9a3c181d73d98e14491da1165d6a6e21, type: 3}
+  copyDepth: {fileID: 4800000, guid: f5c66086396f787488f969c3d983dbda, type: 3}
+  distortTex: {fileID: 2800000, guid: 4b0a79ce6ac8eff4f862049197580478, type: 3}
